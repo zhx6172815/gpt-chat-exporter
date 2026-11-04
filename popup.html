@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GPT 对话导出器</title>
+  <link rel="stylesheet" href="popup.css">
+  <link rel="stylesheet" href="language.css">
+  <script src="language.js" defer></script>
+  <script src="popup.js" defer></script>
+</head>
+<body data-first-language>
+  <header>
+    <img src="icons/48.png" alt="" width="42" height="42">
+    <div>
+      <h1>GPT 对话导出器</h1>
+      <p>保存完整 ChatGPT 对话</p>
+    </div>
+  </header>
+  <main>
+    <button type="button" class="primary" data-format="pdf">
+      <span>导出 PDF</span><span class="detail">打印 / 另存为 PDF →</span>
+    </button>
+    <div class="formats" aria-label="文本导出格式">
+      <button type="button" data-format="md">Markdown</button>
+      <button type="button" data-format="txt">TXT</button>
+      <button type="button" data-format="json">JSON</button>
+    </div>
+    <p class="status" id="status" role="status" aria-live="polite"></p>
+  </main>
+  <footer><span aria-hidden="true"></span>仅在本地处理 · 无水印和次数限制</footer>
+</body>
+</html>

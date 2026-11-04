@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "GPT 对话导出器"
+  },
+  "extensionDescription": {
+    "message": "在当前页显示进度弹窗，导出完整 ChatGPT 对话为 PDF、Markdown、TXT 或 JSON。"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "GPT Chat Exporter"
+  },
+  "extensionDescription": {
+    "message": "Export complete ChatGPT conversations to PDF, Markdown, TXT or JSON with an in-page progress dialog."
+  }
+}

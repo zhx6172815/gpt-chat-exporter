@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "GPT チャットエクスポーター"
+  },
+  "extensionDescription": {
+    "message": "進行状況を表示しながら、ChatGPT の会話全体を PDF、Markdown、TXT、JSON で保存。"
+  }
+}
