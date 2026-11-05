@@ -4,11 +4,11 @@
 **Free, no watermark, no export quota, no extension account.**
 **無料・透かしなし・回数制限なし・拡張機能アカウント不要。**
 
-> 免费稳定核心，v3.0.3 仅更新单平台访问权限和浏览器发布准备；已有导出逻辑保持一致。
-> Confirmed free exporter core. v3.0.3 scopes host permissions for standalone distribution.
+> 免费稳定核心，v3.0.4 仅更新单平台访问权限和浏览器发布准备；已有导出逻辑保持一致。
+> Confirmed free exporter core. v3.0.4 scopes host permissions for standalone distribution.
 > 無料版の出力処理を維持し、単一サービス向けのアクセス権限を設定しています。
 
-[下载 / Downloads / ダウンロード](https://github.com/zhx6172815/gpt-chat-exporter/releases/tag/v3.0.3) · [隐私 / Privacy](PRIVACY.md) · [产品目录 / Catalog](https://github.com/zhx6172815/ai-chat-exporter#products)
+[下载 / Downloads / ダウンロード](https://github.com/zhx6172815/gpt-chat-exporter/releases/tag/v3.0.4) · [隐私 / Privacy](PRIVACY.md) · [产品目录 / Catalog](https://github.com/zhx6172815/ai-chat-exporter#products)
 
 ## 中文
 

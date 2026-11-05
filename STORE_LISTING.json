@@ -1,6 +1,6 @@
 {
   "product": "chatgpt",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "price": "free",
   "category": "Productivity",
   "singlePurpose": "Export the user-selected saved AI conversation to local files.",
@@ -31,5 +31,6 @@
   },
   "storeSubmitted": false,
   "reviewReady": true,
-  "actualPlatformAcceptance": "Confirmed GPT core; Firefox and other browsers pending"
+  "actualPlatformAcceptance": "Confirmed GPT core; Firefox and other browsers pending",
+  "authenticationHandling": "Existing AI-service session credentials are transmitted only to that same service to read user-requested history; Firefox declares required authenticationInfo and install-time consent."
 }

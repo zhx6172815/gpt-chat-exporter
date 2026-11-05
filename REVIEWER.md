@@ -1,7 +1,7 @@
 # Reviewer instructions
 
 Product: GPT Chat Exporter
-Version: 3.0.3
+Version: 3.0.4
 Status: Confirmed free core; store approval pending
 
 Single purpose: export the user-selected saved conversation to local PDF/Markdown/TXT/JSON. The extension itself performs the export; it does not redirect users to another extension. Target hosts: chatgpt.com, chat.openai.com.

@@ -1,6 +1,6 @@
 (()=>{
 ;
-if(globalThis.__gptChatExporter?.version==="3.0.3")return;
+if(globalThis.__gptChatExporter?.version==="3.0.4")return;
 ;
 globalThis.__gptChatExporter?.dispose();
 ;
@@ -4002,7 +4002,7 @@ function openExporter(format, id, language) {
 }
 
 globalThis.__gptChatExporter = {
-  version: "3.0.3",
+  version: "3.0.4",
   open: openExporter,
   readSnapshot(key, offset = 0) {
     const snapshot = snapshots.get(key);

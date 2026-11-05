@@ -325,7 +325,7 @@ function openExporter(format, id, language) {
 }
 
 globalThis.__gptChatExporter = {
-  version: "3.0.3",
+  version: "3.0.4",
   open: openExporter,
   readSnapshot(key, offset = 0) {
     const snapshot = snapshots.get(key);
