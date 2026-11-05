@@ -1,4 +1,11 @@
-# GPT Chat Exporter · 聊天记录导出器 · 会話エクスポーター
+# GPT Chat Exporter
+
+A free community project with public source for exporting, downloading and backing up GPT conversations and messages. PDF printing, Markdown, plain TXT and JSON; Chinese, English and Japanese interfaces; no extension account.
+
+> Free community edition. Browser-store review and GitHub publication are tracked separately.
+
+[Downloads / 下载 / ダウンロード](https://github.com/zhx6172815/gpt-chat-exporter/releases) · [Privacy / 隐私](PRIVACY.md)
+
 
 **免费、无水印、不限导出次数、无需扩展账号。**
 **Free, no watermark, no export quota, no extension account.**

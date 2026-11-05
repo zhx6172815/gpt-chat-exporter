@@ -29,8 +29,48 @@
     "scripting": "Run the local exporter after the user invokes the toolbar action.",
     "host_permissions": "Only chatgpt.com, chat.openai.com; no other AI hosts."
   },
-  "storeSubmitted": false,
+  "storeSubmitted": true,
   "reviewReady": true,
   "actualPlatformAcceptance": "Confirmed GPT core; Firefox and other browsers pending",
-  "authenticationHandling": "Existing AI-service session credentials are transmitted only to that same service to read user-requested history; Firefox declares required authenticationInfo and install-time consent."
+  "authenticationHandling": "Existing AI-service session credentials are transmitted only to that same service to read user-requested history; Firefox declares required authenticationInfo and install-time consent.",
+  "firefoxSubmission": {
+    "product": "chatgpt",
+    "store": "firefox",
+    "version": "3.0.4",
+    "status": "submitted_pending_publication",
+    "versionId": 6666556,
+    "slug": "gpt-chat-exporter",
+    "manageUrl": "https://addons.mozilla.org/en-US/developers/addon/gpt-chat-exporter/edit",
+    "versionUrl": "https://addons.mozilla.org/en-US/developers/addon/gpt-chat-exporter/versions/6666556",
+    "publicUrlCandidate": "https://addons.mozilla.org/en-US/firefox/addon/gpt-chat-exporter/",
+    "publicListingVerified": false,
+    "validation": {
+      "errors": 0,
+      "warnings": 7
+    },
+    "sourceUploaded": true,
+    "observedResult": "Version Submitted; confirmation email will follow when published; up to 24 hours or longer for manual review"
+  },
+  "operaSubmission": {
+    "store": "opera",
+    "product": "chatgpt",
+    "version": "3.0.4",
+    "packageId": 308451,
+    "extensionId": "oflafbifbbofpnnmpknallmcmgcljhpd",
+    "status": "submitted_pending_moderator_status",
+    "publicListingVerified": false,
+    "manageUrl": "https://addons.opera.com/developer/package/308451/",
+    "versionUrl": "https://addons.opera.com/developer/package/308451/version/3.0.4",
+    "locales": [
+      "en",
+      "ja",
+      "zh-CN"
+    ],
+    "observedResult": "Status: follow the conversation with moderators for current status; Submit changes and Cancel changes disabled",
+    "packageFile": "packages/gpt-chat-exporter-v3.0.4-opera.zip",
+    "packageSha256": "38f623ab3e637c28ea87c67a1a449734dc8bc049fc7e4914d1e17ebecb459c9a",
+    "packagingChange": "Removed developer-only scripts/build-runtime.cjs; retained runtime files byte-for-byte",
+    "limitations": "Opera live runtime acceptance pending. Submitted screenshot is labelled DEMO and uses test fixtures; review notes disclose this."
+  },
+  "primaryLocale": "en"
 }
