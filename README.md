@@ -1,5 +1,14 @@
 # GPT Chat Exporter · GPT 聊天记录导出器 · GPT チャット履歴エクスポーター
 
+**当前发布：v3.0.2 免费稳定版。无需注册扩展账号，无水印，不限制导出次数。**
+
+**Current release: v3.0.2 Free. No extension account, watermark or export quota.**
+
+**公開版：v3.0.2 無料安定版。拡張機能のアカウント登録・透かし・出力回数制限はありません。**
+
+[下载免费版 / Download Free / 無料版をダウンロード](https://github.com/zhx6172815/gpt-chat-exporter/releases/tag/v3.0.2)
+
+
 面向公众免费提供、源码公开的 ChatGPT 聊天记录导出工具。支持 ChatGPT 对话、聊天记录和消息的导出、下载、保存与备份，提供 PDF / Markdown / TXT / JSON 格式及中文、English、日本語界面。
 
 A free public-benefit project with publicly available source code. Export, download, save and back up ChatGPT conversations, chat history and messages as PDF, Markdown, plain-text TXT or JSON.
